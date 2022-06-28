@@ -4,23 +4,22 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+LinkedIn profile (./linkedin.com/in/revan-datta-parimi-415b4210b).
 
-There should be whitespace between paragraphs.
+Goal-oriented IT professional, targeting challenging assignments in Software Development 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+	Currently associated with Blackbuck Insights India Pvt Ltd as Senior Associate, expert in Wireless, Communication, Credit Reporting Sector in Core C programming, Embedded Linux, Python.
 
-# Header 1
+## Project 1
+Backdated Report and Code vulnerability tool in Banking Domain
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Project 2 
 
-## Header 2
+Python Automation tool for feature updates.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Project 3
 
-### Header 3
+Logger and Alarm Module for networking product
 
 ```js
 // Javascript code with syntax highlighting.
